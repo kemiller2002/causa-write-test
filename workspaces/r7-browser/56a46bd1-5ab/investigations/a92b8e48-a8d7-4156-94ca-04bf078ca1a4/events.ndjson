@@ -1,1 +1,1 @@
-{"formatVersion":"1.0.0","eventId":"29e36694-6133-4b72-80d7-e5803db27b49","investigationId":"a92b8e48-a8d7-4156-94ca-04bf078ca1a4","aggregateVersion":1,"eventType":"InvestigationStarted","occurredAt":"2026-10-30T15:02:21.536Z","actor":{"actorId":"causa-user","kind":"human"},"semanticVersion":"1.0.0","correlationId":"9ab9dc3c-826e-4613-b8ab-4fac419c518a","payload":{"title":"Forgery target","observationId":"223f43e3-1b0c-480b-abc1-31c1b59c166c","original":"What happened to Forgery target?"}}
+{"forged":true}
