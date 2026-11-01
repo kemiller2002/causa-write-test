@@ -1,1 +1,2 @@
 {"aggregateVersion":1,"eventId":"f9dacbc0-5a9d-4783-9881-7bb6929a6a2d","eventType":"InvestigationStarted","formatVersion":"1.0.0","investigationId":"0018b83e-5c2b-4fc4-badb-0ff70c26f400","semanticVersion":"1.0.0"}
+{"aggregateVersion":2,"eventId":"7dfb7270-cee2-4d19-bb49-330a62ff0bec","eventType":"InvestigationRenamed","formatVersion":"1.0.0","investigationId":"0018b83e-5c2b-4fc4-badb-0ff70c26f400","semanticVersion":"1.0.0"}
