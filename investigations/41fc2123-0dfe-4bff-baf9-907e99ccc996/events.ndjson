@@ -1,1 +1,3 @@
 {"aggregateVersion":1,"eventId":"fbe2f37a-1bbd-43b4-851c-de25e1e8bf2c","eventType":"InvestigationStarted","formatVersion":"1.0.0","investigationId":"41fc2123-0dfe-4bff-baf9-907e99ccc996","semanticVersion":"1.0.0"}
+{"aggregateVersion":2,"eventId":"67701de2-986e-44ea-97f3-79fc96bcf402","eventType":"InvestigationRenamed","formatVersion":"1.0.0","investigationId":"41fc2123-0dfe-4bff-baf9-907e99ccc996","semanticVersion":"1.0.0"}
+{"aggregateVersion":3,"eventId":"277f1849-5ebb-43b4-994f-78894f2555f7","eventType":"InvestigationRenamed","formatVersion":"1.0.0","investigationId":"41fc2123-0dfe-4bff-baf9-907e99ccc996","semanticVersion":"1.0.0"}
